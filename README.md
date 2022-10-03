@@ -4,4 +4,6 @@ Cryptoverse app
 
 React-JS
 
-https://cryptoverse-benjaminnovak.netlify.app/
+
+
+![cryptoverse](https://github.com/benjamin303/cryptoverse/blob/main/cryptoverse.png)
