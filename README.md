@@ -12,7 +12,11 @@ React-JS
 # Search for: changeme and insert own x-rapidapi-key
 
 
-Instructions
+How to start:
 
-    npm install
-    npm start
+    1. Search for "changeme" and replace it with your own x-rapidapi-key
+    
+    2. In terminal execute these command
+    
+       npm install
+       npm start
