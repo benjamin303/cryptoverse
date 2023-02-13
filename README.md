@@ -14,7 +14,7 @@ React-JS
 
 How to start:
 
-    1. Search for "changeme" and replace it with your own x-rapidapi-key
+    1. Search for 'changeme' and replace it with your own x-rapidapi-key
     
     2. In terminal execute these command
     
